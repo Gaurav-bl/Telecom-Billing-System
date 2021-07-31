@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1627736191 source:e:\lab programs\fs mini project\main.cpp
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<conio.h>
+	<stdio.h>
+	<string.h>
+	<cstring>
+	<ctype.h>
+	<windows.h>
+	<ctime>
+
